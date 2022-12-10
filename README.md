@@ -2,10 +2,10 @@
 
 ## Please follow below command to execute 
 
-```http
+``http
 cd ls 
 cd mkdir myproject
-````
+```
 
 ## live demo 
 
